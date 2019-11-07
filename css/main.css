@@ -39,3 +39,21 @@ html {
   box-shadow: 0 .1em .3em #000;
   color: #555;
 }
+
+@media only screen and (min-width: 38em) {
+
+  .fs-d-btns {
+    top: .7em;
+    right: .7em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .fs-d-btns {
+    top: .75em;
+    right: .75em;
+  }
+
+}
