@@ -3,6 +3,11 @@ html {
   color: #333;
 }
 
+.fs-d-btns {
+  top: .65em;
+  right: .65em;
+}
+
 .action-card {
   border-radius: .3em;
   overflow: hidden;
